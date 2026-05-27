@@ -1,0 +1,11 @@
+product_id,product_name,category,interest_rate,min_balance,tenure_months
+P001,Regular Savings,Savings,4.50,1000,0
+P002,Premium Savings,Savings,5.25,50000,0
+P003,3-Month FDR,Fixed Deposit,7.00,25000,3
+P004,6-Month FDR,Fixed Deposit,7.50,25000,6
+P005,12-Month FDR,Fixed Deposit,8.00,25000,12
+P006,Corporate Current,Current,0.00,100000,0
+P007,Personal Loan,Loan,12.50,0,60
+P008,Home Loan,Loan,9.75,0,240
+P009,Investment Bond,Investment,8.75,100000,36
+P010,Treasury Bill Fund,Investment,7.25,50000,0

@@ -1,0 +1,16 @@
+customer_id,full_name,segment,join_date,city,country
+C001,Ahmed Rahman,Premium,2018-03-15,Dhaka,Bangladesh
+C002,Fatima Chowdhury,Standard,2019-07-22,Chittagong,Bangladesh
+C003,Karim Hassan,Premium,2017-11-01,Oslo,Norway
+C004,Nadia Islam,Standard,2020-01-10,Dhaka,Bangladesh
+C005,Tariq Mahmood,Corporate,2016-05-28,Dhaka,Bangladesh
+C006,Sadia Begum,Standard,2021-03-03,Sylhet,Bangladesh
+C007,Rafiq Uddin,Premium,2015-09-17,Oslo,Norway
+C008,Mila Eriksen,Corporate,2019-12-05,Bergen,Norway
+C009,Jonas Berg,Standard,2022-02-14,Oslo,Norway
+C010,Amina Sultana,Premium,2018-08-30,Dhaka,Bangladesh
+C011,Sabbir Ahmed,Standard,2020-11-19,Dhaka,Bangladesh
+C012,Laila Hossain,Corporate,2014-06-07,Chittagong,Bangladesh
+C013,Erik Hansen,Standard,2023-01-25,Oslo,Norway
+C014,Runa Akter,Premium,2017-04-12,Dhaka,Bangladesh
+C015,Nasrin Khanam,Standard,2021-09-08,Rajshahi,Bangladesh
